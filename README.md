@@ -8,7 +8,7 @@ interested in cloud infrastructure, automation and algorithmics.
 
 - **[Historandos](https://github.com/EtienneLG/historandos)** ([demo](https://historandos-demo.vercel.app)):
   a hiking tracker with an interactive map, elevation profiles and GPX import (Next.js, Supabase, Mapbox).
-- **[Curator](https://github.com/EtienneLG/curator-mvp)**: a full-stack app (React, Fastify)
+- **[Curator](https://github.com/EtienneLG/curator-mvp)**: a media capture & triage utility. Full-stack app (React, Fastify) 
   built to evaluate agentic development with GitHub Copilot CLI during my internship at Onepoint.
 - **[Wave Function Collapse](https://github.com/EtienneLG/wave-function-collapse)**:
   a Rust program that generates tiled images from a set of tiles and adjacency rules,
