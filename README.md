@@ -13,7 +13,7 @@ interested in cloud infrastructure, automation and algorithmics.
 - **[Wave Function Collapse](https://github.com/EtienneLG/wave-function-collapse)**:
   a Rust program that generates tiled images from a set of tiles and adjacency rules,
   using the Wave Function Collapse algorithm (I used it to generate my profile picture).
-- **And other projects** that I develop on my free time !
+- **And other projects** that I develop in my free time !
 
 ---
 
